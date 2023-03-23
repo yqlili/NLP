@@ -1,4 +1,5 @@
 # NLP_BoW
+- analyze climate related data
 - data preparation: 
   read data in pandas,
   change lables
